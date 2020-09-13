@@ -1,0 +1,6 @@
+E:\P509\Fundamental\DataTypes\DataTypes\bin\Debug\DataTypes.exe.config
+E:\P509\Fundamental\DataTypes\DataTypes\bin\Debug\DataTypes.exe
+E:\P509\Fundamental\DataTypes\DataTypes\bin\Debug\DataTypes.pdb
+E:\P509\Fundamental\DataTypes\DataTypes\obj\Debug\DataTypes.csprojAssemblyReference.cache
+E:\P509\Fundamental\DataTypes\DataTypes\obj\Debug\DataTypes.exe
+E:\P509\Fundamental\DataTypes\DataTypes\obj\Debug\DataTypes.pdb
